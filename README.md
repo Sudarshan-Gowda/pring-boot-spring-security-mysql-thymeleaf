@@ -1,1 +1,1 @@
-# pring-boot-spring-security-mysql-thymeleaf
+# spring-boot-spring-security-mysql-thymeleaf
